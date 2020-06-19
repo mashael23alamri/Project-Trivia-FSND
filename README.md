@@ -83,8 +83,8 @@ The last line runs the test test_flaskr.py
 
 ## Getting Started
 --------------------------------------------------------------------------------
-Base URL: Currently this application is only hosted locally, the backend is hosted at http://127.0.0.1:5000/
-Authentication: This version does not require authentication or API keys.
+##### Base URL: Currently this application is only hosted locally, the backend is hosted at http://127.0.0.1:5000/
+##### Authentication: This version does not require authentication or API keys.
 --------------------------------------------------------------------------------
 
 ### Error Handling
