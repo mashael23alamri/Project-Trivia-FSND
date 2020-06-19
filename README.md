@@ -45,10 +45,6 @@ Once the virtual environment is set up and running, install the dependencies by 
  ```bash
    pip3 install -r requirements.txt
  ```
-
- ```bash
-   pip3 install -r requirements.txt
- ```
 ## Running the Frontend
 --------------------------------------------------------------------------------
  The frontend app was built using create-react-app. In order to run the app in development mode use npm start.
