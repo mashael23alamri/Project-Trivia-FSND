@@ -478,10 +478,13 @@ All other project files, including the models and frontend, were created by Udac
 ## References
 --------------------------------------------------------------------------------
 [virtual-environments](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+
 [Flask](https://flask-wtf.readthedocs.io/en/stable/)
+
 [Miguelgrinberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ix-pagination)
+
 [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)
+
 [w3schools](https://www.w3schools.com/python/ref_string_strip.asp)
-[]()
-[]()
-# project-trivia
+
+
